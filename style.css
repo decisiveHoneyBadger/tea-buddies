@@ -1,0 +1,189 @@
+@import url("https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap");
+
+.container-box {
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  margin: auto;
+  max-width: 960px;
+}
+
+.top-bg-image {
+  background-image: url("images/japanese-tea-ceremony.jpeg");
+  height: 400px;
+}
+
+.mid-bg-image {
+  background-image: url("images/Tea_einschenken.jpeg");
+  height: 400px;
+}
+
+.product-text {
+  color: white;
+  font-family: "Otomanopee One", sans-serif;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.products-button {
+  margin-top: 200px !important;
+  margin-left: 40%;
+  margin-right: 40%;
+  width: 200px;
+}
+
+header {
+  margin: 20px;
+  padding: 15px;
+  background-color: greenyellow;
+}
+
+.title {
+  font-family: permanent marker, cursive;
+  color: black;
+  background-color: white;
+  margin-top: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.title:hover {
+  color: tomato;
+}
+
+h1,
+h2 {
+  font-family: "Otomanopee One", sans-serif;
+}
+
+.image-text {
+  margin: 20px;
+  padding: 15px;
+}
+
+.main-text {
+  font-family: "Otomanopee One", sans-serif;
+  margin: 20px;
+  padding: 15px;
+  text-align: justify;
+}
+
+.btn-primary {
+  background-color: black;
+  font-family: "Otomanopee One", sans-serif;
+  margin-top: 40px;
+}
+
+.btn-primary:hover {
+  background-color: tomato;
+}
+
+#fb-root {
+  text-align: center;
+}
+
+footer .row {
+  background-color: greenyellow;
+}
+
+.margin-top:hover {
+  background-color: tomato;
+}
+
+.fa-youtube-square:hover {
+  background-color: tomato;
+  color: black;
+}
+
+.fa-twitter-square:hover {
+  background-color: tomato;
+  color: black;
+}
+
+.fa-facebook-square:hover {
+  background-color: tomato;
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+a,
+h1,
+.title {
+  text-decoration: none;
+}
+
+.products-top-bg-image {
+  background-image: url("images/types-of-tea-leafs.jpeg");
+  height: 360px;
+  width: 800px;
+  text-align: center;
+  position: relative;
+  margin: 0 auto;
+  background-size: 800px;
+}
+
+.products-mid-bg-image {
+  background-image: url("images/product_image_tea_pot.jpeg");
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
+  background-size: 800px;
+  background-position: center;
+}
+
+.product-top-bg-image-text,
+.product-mid-bg-image-text,
+.teaholics-mid-bg-image-text,
+.teaholics-top-bg-image-text,
+.about-top-bg-image-text {
+  text-align: center;
+  margin-top: 20px;
+  background-color: yellowgreen;
+}
+.services-top-bg-image {
+  background-image: url("images/tea_ceremony.jpeg");
+  height: 520px;
+  width: 800px;
+  margin: 0 auto;
+  background-size: 820px;
+}
+.services-mid-bg-image {
+  background-image: url("images/Wuyi_Mountains.jpeg");
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
+  background-size: 820px;
+}
+
+.teaholics-top-bg-image {
+  background-image: url("images/tea_equipment.jpeg");
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
+  background-size: 870px;
+  text-align: justify;
+  background-position: center;
+}
+
+.teaholics-mid-bg-image {
+  background-image: url("images/tea_brewing_gaiwan.jpeg");
+  height: 480px;
+  width: 800px;
+  margin: 0 auto;
+  background-size: 800px;
+  text-align: justify;
+  background-position: center;
+}
+
+.about-top-bg-image {
+  background-image: url("images/beatles_tea.jpeg");
+  height: 480px;
+  width: 800px;
+  margin: 0 auto;
+  background-size: 800px;
+  text-align: justify;
+  background-position: center;
+}
